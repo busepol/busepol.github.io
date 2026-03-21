@@ -4,8 +4,8 @@ Recently, I collaborated on building the website for **D.A.R.T. (Digital Art Res
 
 ### 🚀 My Projects
 
-* **[About Us Page]((https://busepol.github.io/about_us/about_us.html))** * I built this page to highlight the vision, mission, and team members of D.A.R.T.
-* **[FAQ Page]((https://busepol.github.io/faq/faq.html))** * I designed and coded this frequently asked questions section to help visitors easily find information.
+* **[About Us Page](https://busepol.github.io/about_us/about_us.html)** * I built this page to highlight the vision, mission, and team members of D.A.R.T.
+* **[FAQ Page](https://busepol.github.io/faq/faq.html)** * I designed and coded this frequently asked questions section to help visitors easily find information.
 
 Feel free to look through the files in this repository to see my HTML and CSS code!
 
